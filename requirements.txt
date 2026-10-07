@@ -1,4 +1,4 @@
-2ping @ file:///home/builder/.termux-build/2ping/src
+
 anyio==4.15.1
 certifi==2026.7.22
 chardet==7.6.0
@@ -12,7 +12,6 @@ idna==3.20
 lolcat==1.4
 praw==8.0.3
 prawcore==4.0.0
-proot-distro @ file:///home/builder/.termux-build/proot-distro/src
 python-telegram-bot==22.8
 requests==2.34.2
 setuptools==84.0.0
