@@ -16,7 +16,7 @@ def banner():
   ╚══════╝ ╚═════╝ ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ 
     """)
     print(Fore.YELLOW + "    [ SQL Injection Vulnerability Scanner ]")
-    print(Fore.CYAN + "    [          GitHub: Counc            ]\n")
+    print(Fore.CYAN + "      [         GitHub: Counc               ]\n")
           
 
 def scan_sql_injection(target_url):
